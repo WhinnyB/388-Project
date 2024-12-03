@@ -1,84 +1,118 @@
-Mobile App Dev - App Brainstorming Example
-===
+# Milestone 1 - APP_NAME_HERE (Unit 7)
 
-## Favorite Existing Apps - List
-1. Tiktok
-2. Quizlet
-3. Discord
-4. Google Maps
+## Table of Contents
 
-## New App Ideas - List
-1. Quiz Buddy - A flashcard app.(Education)
-2. Mood Journal - Allow users to log their daily mood (Lifestyle/Health)
-3. Hydration Reminder - Notifications to drink water (Productivity)
-4. Daily Facts - Random smart facts (Educational)
-5. To-Do Time (Productivity)
-6. Movie Trivia - Daily trivia for movies (Entertainment)
+1. [Overview](#Overview)
+1. [Product Spec](#Product-Spec)
+1. [Wireframes](#Wireframes)
 
+## Overview
 
-## Top 3 New App Ideas
-1. Hydration Reminder
-2. Daily Facts
-3. Mood Journal
+### Description
 
-## New App Ideas - Evaluate and Categorize
-1. Hydration Reminder
-   - **Description**: Helps users maintain their daily water intake by sending timely reminders. The app will notify them at regular intervals to drink water. A simple UI displays their progress throughout the day.
-   - **Category:** Health and Lifestyle
-   - **Mobile:** Mobile is essential for logging user's daily water intake and getting notified.
-   - **Story:** Creates a healthy lifestyle by remiding users to drink water to improve their stress and GI issues. Users will feel a sense of satisfaction and hydration!
-   - **Market:** Anyone who would like to improve their water intake but fail to because its easy to forget to drink water. 
-   - **Habit:** A few times a day depending the quantity of the water the person is drinking. Once the goal is reached then there will be no need to check or get notified. 
-   - **Scope:** Features are simple but will need to see how to send real time notifications to the user while app is closed. Clear goal for logging the water intake with a simple tap and input.
+[Description of your app]
 
+### App Evaluation
 
-2. Daily Facts
-   - **Description**: Use an API to retrieve daily facts from the internet for fun and educational content.
-   - **Category:** Educational
-   - **Mobile:** Easy on-the-go facts that will update according to system settings at 00:00 hours. 
-   - **Story:** The value of this app comes from the API choice and ensuring that new daily facts are chosen to be dislayed.
-   - **Market:** Whimsy and intellectual individuals who like to learn something new every day no matter how important the topic. 
-   - **Habit:** Only expect to use once a day or a few times a day in case of adding a re-roll feature which continues to get a random fact.
-   - **Scope:** Relatively easy app to implement since the UI will be a simple design and the API calls is something we have had experience with during this course.
-   
-3. Mood Journal
-   - **Description**: Allows users to log their current mood throughout the day and write notes about the reasons why their emotions have been affected. Moods can be logged and stored in chronological order.
-   - **Category:** Health & Lifestyle
-   - **Mobile:** Mobile use allows the user to update their mood as it happens and whenever they feel their emotions. Having a mobile app makes it better to accurately log their moods. 
-   - **Story:** Users are encouraged to tune in and reflect on their moods throughout the day. This will help them exercise self-reflection and awareness which can improve overall mood and mental health.
-   - **Market:** Anyone would would like to improve their mental/emotional health by practicing awareness. 
-   - **Habit:** A few times a day depending how often the user's mood changes and how often they want to journal about their feelings. 
-   - **Scope:** Medium difficulty app because I would like to implement notifications as well to "check-in" on the user and remind them to take a break from their day and log their moods. Other than that, the UI is simple and most of the app is simplified and can store information.
+[Evaluation of your app across the following attributes]
+- **Category:**
+- **Mobile:**
+- **Story:**
+- **Market:**
+- **Habit:**
+- **Scope:**
 
-## Mood Log
-# Mood Log App Specification
+## Product Spec
 
-## Required Features
-1. Log a mood with predefined options.
-2. Add notes to entries.
-3. View a history of logs in a scrollable list.
-4. View detailed information for individual logs.
-5. Delete logs.
+### 1. User Features (Required and Optional)
 
-## Optional Features
-1. Select multiple moods per entry.
-2. Customize predefined mood options.
+**Required Features**
 
-## Screens
+1. [fill in your required user features here]
+2. ...
+3. ...
 
-### Home Screen
-- Log a mood and add notes.
-- Shortcut to Mood Log History.
+**Optional Features**
 
-### Mood Log History Screen
-- View a scrollable list of logs.
-- Navigate to Detailed Entry Screen.
+1. [fill in your optional user features here]
+2. ...
+3. ...
 
-### Detailed Entry Screen
-- View notes and details for a specific log.
-- Delete entry.
+### 2. Screen Archetypes
 
-## Navigation
-1. **Home Screen** → **Mood Log History Screen**.
-2. **Mood Log History Screen** → **Detailed Entry Screen**.
-3. **Detailed Entry Screen** → Back to **Mood Log History Screen**.
+- [list first screen here]
+  - [list associated required story here]
+  - ...
+- [list second screen here]
+  - [list associated required story here]
+  - ...
+
+### 3. Navigation
+
+**Tab Navigation** (Tab to Screen)
+
+* [fill out your first tab]
+* [fill out your second tab]
+* [fill out your third tab]
+
+**Flow Navigation** (Screen to Screen)
+
+- [list first screen here]
+  - [list screen navigation here]
+  - ...
+- [list second screen here]
+  - [list screen navigation here]
+  - ...
+
+## Wireframes
+
+[Add picture of your hand sketched wireframes in this section] <img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
+
+<br>
+
+<br>
+
+### [BONUS] Digital Wireframes & Mockups
+
+### [BONUS] Interactive Prototype
+
+<br>
+
+# Milestone 2 - Build Sprint 1 (Unit 8)
+
+## GitHub Project board
+
+[Add screenshot of your Project Board with three milestones visible in
+this section]
+<img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
+
+## Issue cards
+
+- [Add screenshot of your Project Board with the issues that you've been working on for this unit's milestone] <img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
+- [Add screenshot of your Project Board with the issues that you're working on in the **NEXT sprint**. It should include issues for next unit with assigned owners.] <img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
+
+## Issues worked on this sprint
+
+- List the issues you completed this sprint
+- [Add giphy that shows current build progress for Milestone 2. Note: We will be looking for progression of work between Milestone 2 and 3. Make sure your giphys are not duplicated and clearly show the change from Sprint 1 to 2.]
+
+<br>
+
+# Milestone 3 - Build Sprint 2 (Unit 9)
+
+## GitHub Project board
+
+[Add screenshot of your Project Board with the updated status of issues for Milestone 3. Note that these should include the updated issues you worked on for this sprint and not be a duplicate of Milestone 2 Project board.] <img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
+
+## Completed user stories
+
+- List the completed user stories from this unit
+- List any pending user stories / any user stories you decided to cut
+from the original requirements
+
+[Add video/gif of your current application that shows build progress]
+<img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
+
+## App Demo Video
+
+- Embed the YouTube/Vimeo link of your Completed Demo Day prep video
