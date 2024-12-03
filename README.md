@@ -1,4 +1,4 @@
-# Milestone 1 - APP_NAME_HERE (Unit 7)
+# Milestone 1 - Mood Log (Unit 7)
 
 ## Table of Contents
 
@@ -10,17 +10,17 @@
 
 ### Description
 
-[Description of your app]
+Allows users to log their current mood throughout the day and write notes about the reasons why their emotions have been affected. Moods can be logged and stored in chronological order.
 
 ### App Evaluation
 
 [Evaluation of your app across the following attributes]
-- **Category:**
-- **Mobile:**
-- **Story:**
-- **Market:**
-- **Habit:**
-- **Scope:**
+- **Category:**  Health & Lifestyle
+- **Mobile:** Mobile use allows the user to update their mood as it happens and whenever they feel their emotions. Having a mobile app makes it better to accurately log their moods.
+- **Story:** Users are encouraged to tune in and reflect on their moods throughout the day. This will help them exercise self-reflection and awareness which can improve overall mood and mental health.
+- **Market:** Anyone would would like to improve their mental/emotional health by practicing awareness.
+- **Habit:** A few times a day depending how often the user's mood changes and how often they want to journal about their feelings.
+- **Scope:** Medium difficulty app because I would like to implement notifications as well to "check-in" on the user and remind them to take a break from their day and log their moods. Other than that, the UI is simple and most of the app is simplified and can store information.
 
 ## Product Spec
 
@@ -28,41 +28,44 @@
 
 **Required Features**
 
-1. [fill in your required user features here]
-2. ...
-3. ...
+1. Log a mood with predefined options.
+2. Add notes to entries.
+3. View a history of logs in a scrollable list.
+4. View detailed information for individual logs.
+5. Delete logs.
 
 **Optional Features**
 
-1. [fill in your optional user features here]
-2. ...
-3. ...
+1. Select multiple moods per entry.
+2. Customize predefined mood options.
 
 ### 2. Screen Archetypes
+- Home Screen
+  - Log a mood and add notes.
+  - Shortcut to Mood Log History.
 
-- [list first screen here]
-  - [list associated required story here]
-  - ...
-- [list second screen here]
-  - [list associated required story here]
-  - ...
+- Mood Log History Screen
+  - View a scrollable list of logs.
+  - Navigate to Detailed Entry Screen.
+
+- Detailed Entry Screen
+  - View notes and details for a specific log.
+  - Delete entry.
 
 ### 3. Navigation
 
-**Tab Navigation** (Tab to Screen)
+### Tab Navigation (Tab to Screen)
+* Home
+* Mood Log History
 
-* [fill out your first tab]
-* [fill out your second tab]
-* [fill out your third tab]
-
-**Flow Navigation** (Screen to Screen)
-
-- [list first screen here]
-  - [list screen navigation here]
-  - ...
-- [list second screen here]
-  - [list screen navigation here]
-  - ...
+### Flow Navigation (Screen to Screen)
+- **Home Screen**
+  - Navigate to Mood Log History Screen.
+- **Mood Log History Screen**
+  - Navigate to Detailed Entry Screen.
+  - Return to Home Screen.
+- **Detailed Entry Screen**
+  - Return to Mood Log History Screen.
 
 ## Wireframes
 
