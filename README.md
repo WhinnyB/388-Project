@@ -69,13 +69,14 @@ Allows users to log their current mood throughout the day and write notes about 
 
 ## Wireframes
 
-[Add picture of your hand sketched wireframes in this section] <img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
+<img src="handsketch.png" width=600>
 
 <br>
 
 <br>
 
 ### [BONUS] Digital Wireframes & Mockups
+<img src="figma.png" width=600>
 
 ### [BONUS] Interactive Prototype
 
