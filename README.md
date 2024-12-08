@@ -107,7 +107,7 @@ Allows users to log their current mood throughout the day and write notes about 
   - Integrated the note input with the mood log, so notes are stored along with the mood.
   - The notes are viewable with each mood log entry.
 
-<img src="milestone2.gif" width=600>
+<img src="Milestone2.gif" width=600>
 
 <br>
 
