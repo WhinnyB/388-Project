@@ -86,19 +86,28 @@ Allows users to log their current mood throughout the day and write notes about 
 
 ## GitHub Project board
 
-[Add screenshot of your Project Board with three milestones visible in
-this section]
-<img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
+<img src="milestones.png" width=600>
 
 ## Issue cards
-
-- [Add screenshot of your Project Board with the issues that you've been working on for this unit's milestone] <img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
-- [Add screenshot of your Project Board with the issues that you're working on in the **NEXT sprint**. It should include issues for next unit with assigned owners.] <img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
+<img src="boardIssues.png" width=600>
 
 ## Issues worked on this sprint
 
-- List the issues you completed this sprint
-- [Add giphy that shows current build progress for Milestone 2. Note: We will be looking for progression of work between Milestone 2 and 3. Make sure your giphys are not duplicated and clearly show the change from Sprint 1 to 2.]
+### Issue 1: Log a Mood with Predefined Options
+- **Objective**: Allow the user to log their mood by selecting from a predefined list of mood options.
+- **Implementation**:
+  - Created a simple UI that displays predefined mood options.
+  - Added functionality to log the selected mood into a list.
+  - Stored the mood entries in a list that can be viewed later.
+
+### Issue 2: Add Notes to Entries
+- **Objective**: Enable the user to add notes alongside their mood entries.
+- **Implementation**:
+  - Added an input field for users to enter notes when logging their mood.
+  - Integrated the note input with the mood log, so notes are stored along with the mood.
+  - The notes are viewable with each mood log entry.
+
+<img src="milestone2.gif" width=600>
 
 <br>
 
