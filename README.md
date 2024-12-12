@@ -128,5 +128,4 @@ Allows users to log their current mood throughout the day and write notes about 
 <img src="walkthrough.gif" width=600>
 
 ## App Demo Video
-
-- Embed the YouTube/Vimeo link of your Completed Demo Day prep video
+[![Demo Video](https://youtu.be/_EtSXwTr6o8)](https://youtu.be/_EtSXwTr6o8)
