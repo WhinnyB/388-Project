@@ -115,16 +115,17 @@ Allows users to log their current mood throughout the day and write notes about 
 
 ## GitHub Project board
 
-[Add screenshot of your Project Board with the updated status of issues for Milestone 3. Note that these should include the updated issues you worked on for this sprint and not be a duplicate of Milestone 2 Project board.] <img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
+<img src="milestone3.png" width=600>
 
 ## Completed user stories
+- Users can log into their own account to log their moods.
+- Users can log their mood using predefined options.
+- Users can add and view notes alongside their mood entries.
+- Mood entries and associated notes are displayed in an organized, visually appealing list.
+- Integrated truncation for lengthy notes with an option to expand and view full details.
+- Feature to edit or delete mood entries.
 
-- List the completed user stories from this unit
-- List any pending user stories / any user stories you decided to cut
-from the original requirements
-
-[Add video/gif of your current application that shows build progress]
-<img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
+<img src="walkthrough.gif" width=600>
 
 ## App Demo Video
 
