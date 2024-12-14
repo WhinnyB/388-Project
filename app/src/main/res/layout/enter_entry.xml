@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:gravity="center_vertical"
+    android:background="@drawable/beigebck">
+
+    <Spinner
+        android:id="@+id/moodSpinner"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="16dp" />
+
+
+    <EditText
+        android:id="@+id/notesEditText"
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:hint="Want to express yourself? Write it down!"
+        android:inputType="textMultiLine"
+        android:gravity="top|start"
+        android:layout_marginBottom="24dp"
+        android:background="@drawable/rounded_edittext"
+        android:paddingStart="16dp"
+        android:paddingTop="12dp"
+        android:paddingEnd="16dp"
+        android:paddingBottom="12dp"/>
+
+    <Button
+        android:id="@+id/submitButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Submit Mood"
+        android:backgroundTint="@color/beige"
+        android:textColor="@android:color/black"
+        android:padding="12dp"
+        android:layout_gravity="center" />
+
+</LinearLayout>

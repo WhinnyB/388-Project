@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "357756638854",
+    "project_id": "project388-f2c0c",
+    "storage_bucket": "project388-f2c0c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357756638854:android:6e4d67289e668d13d62307",
+        "android_client_info": {
+          "package_name": "com.example.moodlogger"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLh44Kvlr9CyiSZ1Rv-d4Ra23RJznLCrU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
