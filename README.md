@@ -128,4 +128,7 @@ Allows users to log their current mood throughout the day and write notes about 
 <img src="walkthrough.gif" width=600>
 
 ## App Demo Video
-[![Demo Video](https://youtu.be/_EtSXwTr6o8)](https://youtu.be/_EtSXwTr6o8)
+[![Video Thumbnail](https://img.youtube.com/vi/_EtSXwTr6o8/0.jpg)](https://youtu.be/_EtSXwTr6o8)
+
+Click the thumbnail to watch the video on YouTube.
+
